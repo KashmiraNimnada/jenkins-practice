@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef428687-80f6-42e7-9d84-af4e42c512b4" name="Changes" comment="ip addrs changed" />
+    <list default="true" id="ef428687-80f6-42e7-9d84-af4e42c512b4" name="Changes" comment="changes to cmt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KashmiraNimnada"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/KashmiraNimnada/jenkins-practice.git",
@@ -54,11 +62,20 @@
       <option name="project" value="LOCAL" />
       <updated>1769593654786</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes to cmt">
+      <option name="closed" value="true" />
+      <created>1769593828611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769593828611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ip addrs changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="ip addrs changed" />
+    <MESSAGE value="changes to cmt" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to cmt" />
   </component>
 </project>
