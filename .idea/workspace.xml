@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef428687-80f6-42e7-9d84-af4e42c512b4" name="Changes" comment="" />
+    <list default="true" id="ef428687-80f6-42e7-9d84-af4e42c512b4" name="Changes" comment="ip addrs changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KashmiraNimnada/jenkins-practice.git",
+    "accountId": "8df14732-15f5-4a6e-b9d7-0a578e8ca1dc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -40,6 +46,19 @@
       <option name="presentableId" value="Default" />
       <updated>1769580773245</updated>
     </task>
+    <task id="LOCAL-00001" summary="ip addrs changed">
+      <option name="closed" value="true" />
+      <created>1769593654785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769593654786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ip addrs changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ip addrs changed" />
   </component>
 </project>
